@@ -1,0 +1,17 @@
+{
+    "description": "This dataset compares Kazakhstan's primary education enrollment with its GDP per capita over the last 20 years. The data covers 2021 to 2020.",
+    "columns": {
+        "Year": {
+            "data_type": "int",
+            "meaning": "The calendar year for the data."
+        },
+        "Primary Enrollment": {
+            "data_type": "float",
+            "meaning": "The number of primary education pupils enrolled in Kazakhstan for the corresponding year."
+        },
+        "GDP": {
+            "data_type": "float",
+            "meaning": "Kazakhstan's GDP per capita (current US$) for the corresponding year."
+        }
+    }
+}
